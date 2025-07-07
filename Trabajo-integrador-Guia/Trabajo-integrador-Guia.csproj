@@ -74,32 +74,32 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="punto1\Ciudadano.cs" />
+    <Compile Include="Fundamentos POO\Ciudadano.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="punto2\Animal.cs" />
-    <Compile Include="punto2\Gato.cs" />
-    <Compile Include="punto2\Perro.cs" />
-    <Compile Include="punto3\FacturaPrinterDigital.cs" />
-    <Compile Include="punto3\Factura.cs" />
-    <Compile Include="punto3\FacturaCalculator.cs" />
-    <Compile Include="punto3\FacturaPrinterPapel.cs" />
-    <Compile Include="punto3\Facturasaver.cs" />
-    <Compile Include="punto3\IimprimirDigital.cs" />
-    <Compile Include="punto3\IimprimirPapel.cs" />
-    <Compile Include="punto4\Producto.cs" />
-    <Compile Include="punto4\ProductoController.cs" />
-    <Compile Include="punto4\ProductoRepository.cs" />
-    <Compile Include="punto5\Controlador\LibroController.cs" />
-    <Compile Include="punto5\Controlador\PrestamoController.cs" />
-    <Compile Include="punto5\Controlador\UsuarioController.cs" />
-    <Compile Include="punto5\Data\Repository.cs" />
-    <Compile Include="punto5\Modelos\Libro.cs" />
-    <Compile Include="punto5\Modelos\Prestamo.cs" />
-    <Compile Include="punto5\Modelos\Usuario.cs" />
-    <Compile Include="punto5\Vistas\LibroView.cs" />
-    <Compile Include="punto5\Vistas\PrestamoView.cs" />
-    <Compile Include="punto5\Vistas\UsuarioView.cs" />
+    <Compile Include="Herencia y Polimorfismo\Animal.cs" />
+    <Compile Include="Herencia y Polimorfismo\Gato.cs" />
+    <Compile Include="Herencia y Polimorfismo\Perro.cs" />
+    <Compile Include="Principios SOLID\FacturaPrinterDigital.cs" />
+    <Compile Include="Principios SOLID\Factura.cs" />
+    <Compile Include="Principios SOLID\FacturaCalculator.cs" />
+    <Compile Include="Principios SOLID\FacturaPrinterPapel.cs" />
+    <Compile Include="Principios SOLID\Facturasaver.cs" />
+    <Compile Include="Principios SOLID\IimprimirDigital.cs" />
+    <Compile Include="Principios SOLID\IimprimirPapel.cs" />
+    <Compile Include="CRUD + Json + Repository\Producto.cs" />
+    <Compile Include="CRUD + Json + Repository\ProductoController.cs" />
+    <Compile Include="CRUD + Json + Repository\ProductoRepository.cs" />
+    <Compile Include="Proyecto final MVC\Controlador\LibroController.cs" />
+    <Compile Include="Proyecto final MVC\Controlador\PrestamoController.cs" />
+    <Compile Include="Proyecto final MVC\Controlador\UsuarioController.cs" />
+    <Compile Include="Proyecto final MVC\Data\Repository.cs" />
+    <Compile Include="Proyecto final MVC\Modelos\Libro.cs" />
+    <Compile Include="Proyecto final MVC\Modelos\Prestamo.cs" />
+    <Compile Include="Proyecto final MVC\Modelos\Usuario.cs" />
+    <Compile Include="Proyecto final MVC\Vistas\LibroView.cs" />
+    <Compile Include="Proyecto final MVC\Vistas\PrestamoView.cs" />
+    <Compile Include="Proyecto final MVC\Vistas\UsuarioView.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
